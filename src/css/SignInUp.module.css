@@ -1,0 +1,54 @@
+
+.titleContainer2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: navy;
+    border: solid black;
+    color: aliceblue;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 20px; 
+    width: 100%;
+    max-width: 600px; 
+    margin: 0 auto; 
+}
+
+.unites2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.formSign {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.buttonSign {
+    padding: 10px;
+    font-size: 16px;
+    background-color: navy;
+    color: white;
+    border: none;
+    cursor:pointer;
+    width: 100%;
+}
+.input_winner {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+

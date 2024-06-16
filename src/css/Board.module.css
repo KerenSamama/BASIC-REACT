@@ -1,0 +1,47 @@
+.zoomOut {
+    transform: scale(1); 
+    transform-origin: top left;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1rem; 
+    padding: 1rem; 
+}
+
+.unites {
+    flex: 1 1 10%; 
+    min-width: 200px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.5rem;
+}
+
+.titleContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color: navy;
+    border: solid black;
+    color: aliceblue;
+}
+
+.buttonContainer {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.button_container {
+    padding: 0.5rem 1rem;
+}
+

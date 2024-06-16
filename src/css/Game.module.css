@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+body{
+    background-image: url(../Background-project4/circles-8531733_640.png);
+}
+.information {
+    
+    font-family: 'Poppins', sans-serif;
+    border-radius: 25px 25px 25px 25px;
+    padding:50px;
+    margin-bottom: 50px;
+    border: solid black;
+    background-color: aliceblue;
+    color: navy;
+    
+}
+
+.information .play{
+    
+    align-items: center;
+    justify-content: center;
+     border: solid black;
+     border-radius: 10px;
+     background-color: orange;
+     text-align: center;
+     font-weight: bold;
+     color:black;
+    
+
+}
+
+h3{
+    font-size: 1rem;
+}
+
+button{
+    cursor:pointer;
+}
