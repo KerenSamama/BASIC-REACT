@@ -1,3 +1,8 @@
+
+The project involves developing two basic client-side applications using React. The first application is a visual text editor that allows users to input and style text with various fonts, sizes, colors, and languages, including special characters and emojis. It includes features like undo, clear all, and delete last character. The second application is a "100 to Get" game management system where multiple players register, play, and track their progress. Each player aims to reach the number 100 with the fewest moves possible using operations like addition, subtraction, multiplication, and division. The system highlights the active player and records game results, displaying the top three players based on their performance. Both applications should be modular, professional, and designed for future enhancements. The project is to be developed collaboratively by two partners, each contributing equally to all components and technologies.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
